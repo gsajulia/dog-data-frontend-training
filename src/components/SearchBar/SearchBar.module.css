@@ -8,6 +8,7 @@
   margin: 20px auto;
   display: block;
   transition: border-color 0.3s;
+  background-color: #f2f3f4;
 }
 
 .searchInput:focus {

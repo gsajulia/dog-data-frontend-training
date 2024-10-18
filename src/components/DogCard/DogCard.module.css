@@ -73,8 +73,6 @@
 }
 
 .card:hover .description {
-  max-height: 100px;
   white-space: normal;
-  padding: 10px;
   overflow-y: auto;
 }
