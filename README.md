@@ -51,6 +51,32 @@ This project was built using the following technologies:
 - CSS
 - Vite
 
+## 🚀 Challenge Time
+
+Já entendeu o básico de React? Então bora praticar.
+
+Mude para a branch do desafio:
+
+```bash
+git status
+git checkout code-sketch
+git status
+```
+
+## 🧩 Your Mission
+
+Nesta branch, parte da lógica da aplicação foi removida — especialmente dentro do componente DogList.
+
+Seu objetivo é reconstruir essa funcionalidade aplicando:
+
+- useState
+- useEffect
+- Array de componentes
+
+💡 Dica: pense em como os dados são buscados e como eles devem ser armazenados e renderizados na tela.
+
+Agora é com você — monte essa peça do quebra-cabeça.
+
 ### Acknowledgments
 
 Powered by [Stratonauts Dog API](https://dogapi.dog) - A big thank you to the creators of the Dog API!
