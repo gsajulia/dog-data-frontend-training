@@ -8,6 +8,7 @@ To set up the project locally, follow these steps:
 
 ### Prerequisites
 
+- **git**
 - **Node.js**
 - **npm**
 
