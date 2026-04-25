@@ -53,29 +53,28 @@ This project was built using the following technologies:
 
 ## 🚀 Challenge Time
 
-Já entendeu o básico de React? Então bora praticar.
+Got the basics of React? Time to put it into practice.
 
-Mude para a branch do desafio:
+Switch to the challenge branch:
 
 ```bash
-git status
 git checkout code-sketch
 git status
 ```
 
 ## 🧩 Your Mission
 
-Nesta branch, parte da lógica da aplicação foi removida — especialmente dentro do componente DogList.
+In this branch, part of the application logic has been removed — especially inside the DogList component.
 
-Seu objetivo é reconstruir essa funcionalidade aplicando:
+Your goal is to rebuild this functionality using
 
 - useState
 - useEffect
 - Array de componentes
 
-💡 Dica: pense em como os dados são buscados e como eles devem ser armazenados e renderizados na tela.
+💡 Tip: think about how the data is fetched and how it should be stored and rendered on the screen.
 
-Agora é com você — monte essa peça do quebra-cabeça.
+Now it’s your turn — piece this puzzle back together.
 
 ### Acknowledgments
 
