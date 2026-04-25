@@ -70,7 +70,7 @@ Your goal is to rebuild this functionality using
 
 - useState
 - useEffect
-- Array de componentes
+- Component array
 
 💡 Tip: think about how the data is fetched and how it should be stored and rendered on the screen.
 
